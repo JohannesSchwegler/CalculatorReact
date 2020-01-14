@@ -5,6 +5,10 @@ Check out this calculator build with react
 ![alt text](https://github.com/JohannesSchwegler/markdown/blob/master/calc.png)
 
 
+## Usage
+
+Clone or download the project and run 'yarn start'.
+
 
 ## License
 

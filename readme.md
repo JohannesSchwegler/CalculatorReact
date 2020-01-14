@@ -7,7 +7,7 @@ You can have a look at the live version at: https://johannesschwegler.github.io/
 
 You can choose between different categories or search for keywords to find the articles you like. :grin:
 
-![alt text](https://github.com/JohannesSchwegler/NYT-API/blob/master/images/Readme_image.png)
+![alt text](https://github.com/JohannesSchwegler/markdown/blob/master/calc.png)
 
 
 

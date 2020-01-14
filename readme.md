@@ -2,10 +2,6 @@
 
 Check out this calculator build with react
 
-## Usage
-
-You can choose between different categories or search for keywords to find the articles you like. :grin:
-
 ![alt text](https://github.com/JohannesSchwegler/markdown/blob/master/calc.png)
 
 

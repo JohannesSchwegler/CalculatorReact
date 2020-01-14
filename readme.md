@@ -1,7 +1,6 @@
 # Calculator build with react.js	
 
-This website contains an calculator build with react.
-You can have a look at the live version at: https://johannesschwegler.github.io/NYT-API/index.html
+Check out this calculator build with react
 
 ## Usage
 
